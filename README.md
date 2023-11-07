@@ -20,7 +20,7 @@ Before using this script, make sure you have the following prerequisites install
         pip install bs4
         pip install requests
 
-###Usage
+### Usage
 1. Run the script and provide the URLs of the product pages on Flipkart and Amazon when prompted.
 
 2. The script will scrape the product prices and provide you with a price comparison.
@@ -30,10 +30,10 @@ Before using this script, make sure you have the following prerequisites install
     2. Flipkart price is lower.
     3. Both prices are the same.
 
-###License
+### License
 This project is licensed under the MIT License.
 
-###Disclaimer
+### Disclaimer
 Please note that web scraping may be subject to the terms of use and policies of the 
 websites being scraped. Ensure that you have the necessary permissions and adhere to 
 legal and ethical guidelines when using this script.
